@@ -1,4 +1,4 @@
 public enum CopyStatus {
-    AVAILABLE,
-    BORROWED
+    AVAILABLE,   // ว่าง
+    BORROWED    // ถูกยืม
 }
